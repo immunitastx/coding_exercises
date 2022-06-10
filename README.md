@@ -5,8 +5,8 @@ Here, we provide a toy "omics" dataset consisting of data resulting from some hy
 # Data
 
 The dataset consists of two files:
-* `omics.tsv` is a TSV file storing the 1000 x 500 data values for the 500 genes in 1000 cells.
-* `condition.tsv` is a TSV file storing which condition each cell belongs to
+* `omics.tsv.gz` is a compressed TSV file storing the 1000 x 500 data values for the 500 genes in 1000 cells.
+* `condition.tsv.gz` is a compressed TSV file storing which condition each cell belongs to
 
 # Task
 
