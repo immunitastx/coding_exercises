@@ -14,7 +14,7 @@ Write an analysis in either a Jupyter notebook or RMarkdown notebook that analyz
 
 You can treat the data values as normally-distributed, such as normalized gene expression values, so you need not assume a counts-based distribution (such as a negative binomial) that are commonly used for single-cell RNA-seq data. Furthermore, some of the values may be negative.
 
-Note, the signal in this data is strong! The genes that are different between the two conditions are _very_ different, so many methods may work just fine! We are looking to see how you approach this problem. What methods did you employ? How did you structure your code? What plots did you make?
+Note, the signal in this data is strong! The genes that are different between the two conditions are _very_ different, so many methods may work just fine! We are looking to see how you approach this problem. What method(s) did you employ? How did you structure your code? What plots did you make?
 
 # Time to completion
 
