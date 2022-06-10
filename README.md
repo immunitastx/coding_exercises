@@ -10,7 +10,7 @@ The dataset consists of two files:
 
 # Task
 
-Write an analysis in either a Jupyter notebook or RMarkdown notebook, using either Python or R, that analyzes this toy dataset in order to find genes that differ between the two conditions. At the end of your notebook, you should list the genes that are different between the two conditions. You can use whatever methods you would like to accomplish this task! 
+Write an analysis in either a Jupyter notebook or RMarkdown notebook, using either Python or R, that analyzes this toy dataset in order to find genes that differ between the two conditions. At the end of your notebook, you should list the genes that are different between the two conditions. You can use whatever methods you would like to accomplish this task! We encourage you to perform exploratory data analysis to show us how you approach a new dataset. 
 
 You can treat the data values as normally-distributed, such as normalized gene expression values, so you need not assume a counts-based distribution (such as a negative binomial) that are commonly used for single-cell RNA-seq data. Furthermore, some of the values may be negative.
 
