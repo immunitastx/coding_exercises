@@ -1,6 +1,6 @@
 # Overview
 
-Here, we provide a toy "omics" dataset consisting of data resulting from some hypothetical single-cell genomics assay. The data was generated from a simulation, so it is not real. This dataset consists of 1,000 cells and 500 assayed genes. These cells come from two hypothetical experimental conditions: "condition_1" and "condition_2". The task here is to identify genes that differ between these two conditions.
+Here, we provide a toy "omics" dataset consisting of data resulting from some hypothetical single-cell genomics assay. The data was generated from a simulation, so it is not real. This dataset consists of 1,000 cells and 500 assayed genes. These cells come from two hypothetical experimental conditions: "condition_1" and "condition_2". The task here is to identify genes whose mean values differ between these two conditions.
 
 # Data
 
